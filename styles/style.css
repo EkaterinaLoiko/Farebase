@@ -1,0 +1,19 @@
+.container {
+    width: 100%;
+    display: flex;
+}
+.text {
+    padding-left: 20px;
+    margin-top: 30px;
+}
+
+.button {
+    padding: 30px;
+}
+
+#list {
+    margin: 40px;
+    width: 600px;
+    height: 300px;
+    border: 1px solid black;
+}
